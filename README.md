@@ -5,6 +5,10 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wangscaler&theme=tokyonight">
 </p>
 
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=wangscaler&theme=react-dark">
+</p>
+
 <!-- 贪吃蛇, 由工作流定时生成 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
