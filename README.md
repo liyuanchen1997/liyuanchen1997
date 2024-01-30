@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=wangscaler&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wangscaler&theme=tokyonight">
+</p>
 
 <!-- 贪吃蛇, 由工作流定时生成 -->
 <picture>
