@@ -3,6 +3,8 @@
  <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=333333&random=false&width=435&separator=%3C&lines=console.log(%22hello%22);%3Cconsole.log(%22%E4%BD%A0%E5%A5%BD%22);" alt="Typing SVG" />
  </a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=333333&width=435&separator=%3C&lines=System.out.println(%22%E4%BD%A0%E5%A5%BD%22);%3CSystem.out.println(%22hello%22);" alt="Typing SVG" /></a>
+
 </div>
 
 
